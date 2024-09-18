@@ -1,7 +1,8 @@
 # Portfolio_Project
 this repositery is shwonig my final project of foundations in my ALX journey 
-My To-Do List Application
-Project Description
+
+*****My To-Do List Application*****
+_Project Description_
 This is a simple and user-friendly To-Do List application that allows users to add, complete, delete tasks, and experience a daily reset for task management. The app also includes light and dark modes for a more personalized experience. It’s built using HTML, CSS, and JavaScript, and stores tasks in localStorage so that users can revisit their task list even after refreshing the page.
 
 Features
