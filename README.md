@@ -2,10 +2,16 @@
 this repositery is shwonig my final project of foundations in my ALX journey 
 
 *****My To-Do List Application*****
+
+
 _Project Description_
+
+
 This is a simple and user-friendly To-Do List application that allows users to add, complete, delete tasks, and experience a daily reset for task management. The app also includes light and dark modes for a more personalized experience. It’s built using HTML, CSS, and JavaScript, and stores tasks in localStorage so that users can revisit their task list even after refreshing the page.
 
-Features
+_Features_
+
+
 Add and Delete Tasks: Users can easily add new tasks and remove completed or unnecessary tasks.
 Task Completion: Mark tasks as complete with a single click.
 Daily Reset: Tasks reset every day while preserving information from the previous day.
@@ -17,8 +23,14 @@ CSS3: For styling and creating a responsive layout.
 JavaScript: For dynamic functionalities such as task management and localStorage integration.
 FontAwesome: For icons used in the user interface.
 localStorage: To store tasks and theme preferences so they persist even after page reloads.
-How to Install and Run the Project
+
+
+***How to Install and Run the Project***
+
+
 Clone the repository:
+
+
 bash
 Copier le code
 git clone https://github.com/your-username/your-repo.git
@@ -27,13 +39,19 @@ bash
 Copier le code
 cd your-repo
 Open index.html in your browser to view the app.
-How to Use
-Adding a Task: Type a task into the input box and click the "Add Task" button (or press Enter).
+
+***How to Use***
+
+
+Adding a Task: 
+
+Type a task into the input box and click the "Add Task" button (or press Enter).
 Completing a Task: Click the checkmark icon next to any task to mark it as completed.
 Deleting a Task: Click the trash icon next to any task to delete it.
 Toggle Theme: Use the sun/moon icon to switch between light and dark modes.
 Daily Reset: Tasks will reset at the beginning of each day, but the app will preserve the previous day's tasks in localStorage.
 Screenshots
+![Capture](https://github.com/user-attachments/assets/97b49ad3-3612-4af0-9bf9-fbac3f2f0877)
 
 Challenges Faced
 Task Deletion: Implementing a delete button for each task required figuring out how to dynamically remove elements and update localStorage.
