@@ -41,9 +41,7 @@ To store tasks and theme preferences so they persist even after page reloads.
 Clone the repository:
 
 
-bash
-Copier le code
-git clone https://github.com/your-username/your-repo.git
+
 Navigate to the project directory:
 bash
 Copier le code
